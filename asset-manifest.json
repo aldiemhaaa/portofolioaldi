@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aldiemhaaa/portofolioaldi/static/css/main.e461d644.css",
+    "main.js": "/aldiemhaaa/portofolioaldi/static/js/main.97ec095a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aldiemhaaa/portofolioaldi/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/aldiemhaaa/portofolioaldi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aldiemhaaa/portofolioaldi/index.html",
+    "main.e461d644.css.map": "/aldiemhaaa/portofolioaldi/static/css/main.e461d644.css.map",
+    "main.97ec095a.js.map": "/aldiemhaaa/portofolioaldi/static/js/main.97ec095a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aldiemhaaa/portofolioaldi/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e461d644.css",
+    "static/js/main.97ec095a.js"
+  ]
+}
